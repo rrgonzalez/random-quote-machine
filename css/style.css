@@ -1,0 +1,52 @@
+h1 {
+	font-size: 350%;
+}
+
+p, .btn {
+	font-size: 150%;
+}
+
+body {
+	background-color: #5F9EA0;
+}
+
+h1 {
+	color: #2F4F4F;
+    text-shadow: 1px 1px rgba(221, 221, 221, 0.72);
+}
+
+h1, blockquote {
+	font-family: "Dancing Script";
+}
+
+#txt-div, #button-div {
+	font-family: "Overlock";
+}
+
+#txt-div {
+	font-size: 150%;
+	margin-bottom: 20px;
+}
+
+#button-div {
+	margin-bottom: 20px;
+}
+
+blockquote {
+	font-size: 170% !important;
+}
+
+header {
+	margin-bottom: 20px;
+}
+
+small {
+	font-size: 100% !important;
+    color: beige !important;
+}
+
+.btn-primary {
+	color: beige;
+	background-color: #244C6F;
+	border: none;
+}
